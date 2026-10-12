@@ -1,4 +1,4 @@
- AI Git Commit & PR Generator CLI
+# AI Git Commit & PR Generator CLI
 
 Git의 변경 사항(`git status`, `git diff`)을 수집하여 AI API를 이용해 커밋 메시지 및 Pull Request(PR) 초안을 자동으로 생성해주는 Python CLI 도구입니다.
 
